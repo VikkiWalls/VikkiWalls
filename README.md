@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VikkiWalls
 - 👀 I’m interested in data in sport, finance and renewable energy.
-- 🌱 I’m currently learning python as part of an internship, and will start my Masters in Data Science in September.
+- 🌱 I’m currently learning python (Pandas and Jupyter Notebook) as part of an internship, and will start my Masters in Data Science in September.
 - 📫 Please connect with me on:
 
   - Linkedin: https://www.linkedin.com/in/victoriajswalls
