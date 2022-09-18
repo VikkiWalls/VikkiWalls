@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VikkiWalls
 - 👀 I’m interested in data science for social good, and am particularly interested in in health, energy and environments, space, and arts (gaming, animation)
-- 🌱 I’m in the last few weeks of my Masters in Data Science
-    * On the 8th of September I'll get to to defend my Masters thesis
+- 🌱 I’m about to graduate from my Masters in Data Science
+    * I recently got to to defend my Masters thesis
         * The project is based on investigating the metabolomics of Alzheimer's Disease (I hope to share it here once it's been marked)🤞
 - 🗣️ Coding in Python and Wolfram Mathematica
     * I also have a small amount of experience in R
