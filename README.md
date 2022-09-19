@@ -9,7 +9,7 @@
 - 🌱 I’m about to graduate from my Masters in Data Science
     * I recently got to to defend my Masters thesis
         * The project is based on investigating the metabolomics of Alzheimer's Disease (I hope to share it here once it's been marked)🤞
-- 🗣️ Coding in Python and Wolfram Mathematica
+- 👩‍💻 Coding in Python and Wolfram Mathematica
     * I also have a small amount of experience in R
 - 💼 I'm currently lookng for Data Scientist roles - particularly in domains where I feel I can contribute towards the data science for social good movement
 - ❤️‍🩹 I recently signed up to be a Volunteer Data Scientist at the [Data Science for Social Good Foundataion](http://www.datascienceforsocialgood.org/) Solve Programme (DSSGS)
