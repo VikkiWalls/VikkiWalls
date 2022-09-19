@@ -6,11 +6,12 @@
 - 🗣️ Coding in Python and Wolfram Mathematica
     * I also have a small amount of experience in R
 - 💼 I'm currently lookng for Data Scientist roles - particularly in domains where I feel I can contribute towards the data science for social good movement
-- ❤️‍🩹 I recently signed up to be a Volunteer Data Scientist at the [Data Science for Social Good Foundataion](http://www.datascienceforsocialgood.org/)
+- ❤️‍🩹 I recently signed up to be a Volunteer Data Scientist at the [Data Science for Social Good Foundataion](http://www.datascienceforsocialgood.org/) Solve Programme (DSSGS)
 - 📫 Please connect with me on:
   - Linkedin: [Victoria (Vikki) Walls](https://www.linkedin.com/in/victoriajswalls/)
   - Twitter: [@DataScienceNot2](https://twitter.com/DataScienceNot2)
   - Instagram: [@datasciencenot2](https://www.instagram.com/datasciencenot2/)
+  - DSSGS: [VikkiWalls](https://solveforgood.org/user/8665)
 <!---
 VikkiWalls/VikkiWalls is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
