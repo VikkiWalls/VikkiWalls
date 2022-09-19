@@ -1,5 +1,11 @@
 - 👋 Hi, I’m @VikkiWalls
-- 👀 I’m interested in data science for social good, and am particularly interested in in health, energy and environments, space, and arts (gaming, animation)
+- 👀 I’m interested in doing projects that matter! I love big ideas and the concept of using data science for social good. 
+  - Some specific domains that interest me are:
+      - ⚗️ Health Research
+      - ⚡ Energy and Renewables
+      - 🌍 The Environment
+      - 🪐 Space
+      - 🎮 The Arts
 - 🌱 I’m about to graduate from my Masters in Data Science
     * I recently got to to defend my Masters thesis
         * The project is based on investigating the metabolomics of Alzheimer's Disease (I hope to share it here once it's been marked)🤞
