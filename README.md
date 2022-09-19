@@ -6,6 +6,7 @@
 - 🗣️ Coding in Python and Wolfram Mathematica
     * I also have a small amount of experience in R
 - 💼 I'm currently lookng for Data Scientist roles - particularly in domains where I feel I can contribute towards the data science for social good movement
+- ❤️‍🩹 I recently signed up to be a Volunteer Data Scientist at the [Data Science for Social Good Foundataion](http://www.datascienceforsocialgood.org/)
 - 📫 Please connect with me on:
   - Linkedin: [Victoria (Vikki) Walls](https://www.linkedin.com/in/victoriajswalls/)
   - Twitter: [@DataScienceNot2](https://twitter.com/DataScienceNot2)
