@@ -15,7 +15,7 @@
 - ❤️‍🩹 I recently signed up to be a Volunteer Data Scientist at the [Data Science for Social Good Foundataion](http://www.datascienceforsocialgood.org/) Solve Programme (DSSGS)
 - 📫 Please connect with me on:
   - Linkedin: [Victoria (Vikki) Walls](https://www.linkedin.com/in/victoriajswalls/)
-  - Mastodon [@DataScienceNot2](https://tech.lgbt/web/@DataScienceNot2)
+  - Mastodon [@DataScienceNot2@tech.lgbt](https://tech.lgbt/web/@DataScienceNot2)
   - Twitter: [@DataScienceNot2](https://twitter.com/DataScienceNot2)
   - Instagram: [@datasciencenot2](https://www.instagram.com/datasciencenot2/)
   - DSSGS: [VikkiWalls](https://solveforgood.org/user/8665)
