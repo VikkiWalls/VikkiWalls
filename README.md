@@ -10,10 +10,15 @@ Hi, I'm Vikki!
 - 🌱 I’m about to graduate from my Masters in Data Science (23.11.2022)
     * In September I got to to defend my [thesis](https://github.com/VikkiWalls/Metabolomics-in-Alzheimer-s-Disease---An-Investigation-into-Conflicting-Methodologies-and-Results)
         * The project is based on investigating the metabolomics of Alzheimer's Disease
-- 💼 I'm currently lookng for Data Scientist roles - particularly in domains where I feel I can contribute towards the data science for social good movement
+- 💼 I'm currently lookng for Data Scientist roles - particularly in domains where I feel I can contribute towards the data science for good movement
 - ❤️‍🩹 I recently signed up to be a Volunteer Data Scientist at the [Data Science for Social Good Foundataion](http://www.datascienceforsocialgood.org/) Solve Programme (DSSGS) where you can find [me](https://solveforgood.org/user/8665)
 
-## 🌐 Socials:
+## 🚧 Current Projects:
+- 🌍 [#30DayMapChallenge](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022)
+- 👩‍💻 Remastering my [MA thesis](https://github.com/VikkiWalls/Remastered-MA-Geo-Diss)
+- 🌐 Learning HTML and CSS to build a portfolio website
+
+## 👋 Socials:
 [![Mastodon](https://img.shields.io/badge/Mastodon-%231DA1F2.svg?logo=Mastodon&logoColor=white)](https://tech.lgbt/web/@DataScienceNot2) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/datasciencenot2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victoriajswalls/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/datasciencenot2) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@DataScienceNot2) 
 
 # 💻 Tech Stack:
