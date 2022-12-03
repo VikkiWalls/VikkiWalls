@@ -14,7 +14,6 @@ Hi, I'm Vikki!
 - ❤️‍🩹 I recently signed up to be a Volunteer Data Scientist at the [Data Science for Social Good Foundataion](http://www.datascienceforsocialgood.org/) Solve Programme (DSSGS) where you can find [me](https://solveforgood.org/user/8665)
 
 ## 🚧 Current Projects:
-- 🌍 [#30DayMapChallenge](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022)
 - 👩‍💻 Remastering my [MA thesis](https://github.com/VikkiWalls/Remastered-MA-Geo-Diss)
 - 🌐 Learning HTML and CSS to build a portfolio website
 
