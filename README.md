@@ -7,7 +7,7 @@ Hi, I'm Vikki!
       - 🌍 The Environment
       - 🪐 Space
       - 🎮 The Arts
-- 🌱 I just graduated from my Masters in Data Science
+- 🌱 I recently graduated from my Masters in Data Science
     * In September I got to to defend my [thesis](https://github.com/VikkiWalls/Metabolomics-in-Alzheimer-s-Disease---An-Investigation-into-Conflicting-Methodologies-and-Results)
         * The project is based on investigating the metabolomics of Alzheimer's Disease
 - 💼 I'm currently lookng for Data Scientist roles - particularly in domains where I feel I can contribute towards the data science for good movement
