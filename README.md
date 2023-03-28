@@ -7,16 +7,25 @@ Hi, I'm Vikki!
       - 🌍 The Environment
       - 🪐 Space
       - 🎮 The Arts
-- 🌱 I recently graduated from my Masters in Data Science
-    * In September I got to to defend my [thesis](https://github.com/VikkiWalls/Metabolomics-in-Alzheimer-s-Disease---An-Investigation-into-Conflicting-Methodologies-and-Results)
-        * The project is based on investigating the metabolomics of Alzheimer's Disease
 - 💼 I'm currently lookng for Data Scientist roles - particularly in domains where I feel I can contribute towards the data science for good movement
-- ❤️‍🩹 I recently signed up to be a Volunteer Data Scientist at the [Data Science for Social Good Foundataion](http://www.datascienceforsocialgood.org/) Solve Programme (DSSGS) where you can find [me](https://solveforgood.org/user/8665)
 
 ## 🚧 Current Projects:
-- 💾 Learning SQL through [University of California](https://www.coursera.org/learn/sql-for-data-science/home/module/1)
-- 👩‍💻 Remastering my [MA thesis](https://github.com/VikkiWalls/Remastered-MA-Geo-Diss)
+- 👩‍💻 Remastering my [MA thesis](https://github.com/VikkiWalls/Remastered-MA-Geo-Diss) by exploring new statistical methods and redoing the statistics using code.
 - 🌐 Learning HTML and CSS to build a portfolio website
+
+## ✅ Recent Projects
+- 💾 Learning SQL through [University of California](https://www.coursera.org/learn/sql-for-data-science/home/module/1)
+- 🌍 [#30DayMapChallenge 2022](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022#30-day-map-challenge-2022)
+- 🔬 [Metabolomics in Alzheimer's Disease](https://github.com/VikkiWalls/Metabolomics-in-Alzheimer-s-Disease---An-Investigation-into-Conflicting-Methodologies-and-Results)
+
+## ❤️‍🩹 Volunteering
+- Volunteer Data Scientist at the [Data Science for Social Good Foundataion](http://www.datascienceforsocialgood.org/) Solve Programme (DSSGS) where you can find [me](https://solveforgood.org/user/8665)
+- Volunteer Data Scientist at [Statistics Without Borders](https://www.statisticswithoutborders.org/)
+
+## 🎓 Education
+- 🎓 MSc Data Science, University of Aberdeen
+- 🎓 MA Geography, University of Aberdeen
+- 👩‍💻 SQL for Data Science, [University of California, Davis](https://www.coursera.org/learn/sql-for-data-science/home/module/1)
 
 ## 👋 Socials:
 [![Mastodon](https://img.shields.io/badge/Mastodon-%239146FF.svg?logo=Mastodon&logoColor=white)](https://tech.lgbt/web/@DataScienceNot2) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/datasciencenot2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victoriajswalls/) [![ResearchGate](https://img.shields.io/badge/ResearchGate-%9cf.svg?logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Victoria-Walls-2)[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/datasciencenot2) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@DataScienceNot2) 
