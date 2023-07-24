@@ -2,6 +2,7 @@
 Hi, I'm Vikki!
 - 👀 I’m interested in doing projects that matter! I love big ideas and the concept of using data science for social good. 
   - Some specific domains that interest me are:
+      - 💰 Insurance
       - ⚗️ Health Research
       - ⚡ Energy and Renewables
       - 🌍 The Environment
