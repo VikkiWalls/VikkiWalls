@@ -8,7 +8,6 @@ Hi, I'm Vikki!
       - 🌍 The Environment
       - 🪐 Space
       - 🎮 The Arts
-- 💼 I'm currently lookng for Data Scientist roles - particularly in domains where I feel I can contribute towards the data science for good movement
 
 ## 🚧 Current Projects:
 - 👩‍💻 Remastering my [MA thesis](https://github.com/VikkiWalls/Remastered-MA-Geo-Diss) by exploring new statistical methods and redoing the statistics using code.
