@@ -10,6 +10,7 @@ Hi, I'm Vikki!
       - 🎮 The Arts
 
 ## 🚧 Current Projects:
+- 🌍 [#30DayMapChallenge 2023](https://github.com/VikkiWalls/30-Day-Map-Challenge-2023) and it's associated [website](https://vikkiwalls.github.io/30-Day-Map-Challenge-2023-Live/)
 - 👩‍💻 Remastering my [MA thesis](https://github.com/VikkiWalls/Remastered-MA-Geo-Diss) by exploring new statistical methods and redoing the statistics using code.
 - 🌐 Learning HTML and CSS to build a portfolio website
 
